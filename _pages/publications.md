@@ -331,7 +331,7 @@ permalink: /publications/
 **Bulletin of Mathematical Biology** (2011), 73: 2068–2087.
 &#160;[💻](https://link.springer.com/article/10.1007/s11538-010-9608-2)&#160;[📃](../files/2011_hilbe.pdf)
 
-- Hilbe C AND Sigmund, K.
+- Hilbe C and Sigmund, K.
 *Incentives and opportunism: from the carrot to the stick.* 
 **Proceedings of the Royal Society B** (2010), 277: 2427–2433.
 &#160;[💻](https://royalsocietypublishing.org/doi/10.1098/rspb.2010.0065)&#160;[📃](../files/2010_hilbe.pdf)
