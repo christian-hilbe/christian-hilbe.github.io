@@ -27,7 +27,7 @@ Graduate researcher at the [Faculty of Mathematics, University of Vienna](https:
 - **10/2008 - 03/2012.**
 Doctoral studies in Mathematics, University of Vienna.
 - **03/2004 – 09/2008.**
-Undergraduate studies of mathematics, University of Vienna.
+Undergraduate studies of Mathematics, University of Vienna.
 
 
 #### Grants and Fellowships
