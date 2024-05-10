@@ -10,7 +10,7 @@ permalink: /publications/
 ---
 
 - Glynatsi N, McAvoy A, Hilbe C. 
-* Evolution of reciprocity with limited payoff memory.*
+*Evolution of reciprocity with limited payoff memory.*
 **Proceedings of the Royal Society B**, in press.
 
 - McAvoy A, Madhusahani U, Hilbe C, Chatterjee K, Barfuss W, Su Q, Leonard NE, Plotkin JB.
