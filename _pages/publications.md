@@ -9,6 +9,10 @@ permalink: /publications/
 
 ---
 
+- Barfuss W, Flack J, Gokhale C, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenaerts T, Leonard NE, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP. 
+*Collective Cooperative Intelligence.*
+**Proceedings of the National Academy of Sciences**, in press.
+
 - McAvoy A, Madhusahani U, Hilbe C, Chatterjee K, Barfuss W, Su Q, Leonard NE, Plotkin JB.
 *Unilateral incentive alignment in two-player games.*
 **Proceedings of the National Academy of Sciences**, in press.
