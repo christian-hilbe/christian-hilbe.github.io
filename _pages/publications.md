@@ -9,13 +9,15 @@ permalink: /publications/
 
 ---
 
-- Glynatsi N, McAvoy A, Hilbe C. 
-*Evolution of reciprocity with limited payoff memory.*
-**Proceedings of the Royal Society B**, in press.
-
 - McAvoy A, Madhusahani U, Hilbe C, Chatterjee K, Barfuss W, Su Q, Leonard NE, Plotkin JB.
 *Unilateral incentive alignment in two-player games.*
 **Proceedings of the National Academy of Sciences**, in press.
+
+- Glynatsi N, McAvoy A, Hilbe C. 
+*Evolution of reciprocity with limited payoff memory.*
+**Proceedings of the Royal Society B**, 291:20232493.
+[💻](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2023.2493)
+[📃](../files/2024_glynatsi_procb.pdf)
 
 - Hübner V, Staab M, Hilbe C, Chatterjee K, Kleshnina M.
 *Efficiency and resilience of cooperation in asymmetric social dilemmas.* 
