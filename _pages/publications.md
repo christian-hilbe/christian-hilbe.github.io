@@ -17,6 +17,12 @@ permalink: /publications/
 *Unilateral incentive alignment in two-player games.*
 **Proceedings of the National Academy of Sciences**, in press.
 
+- Murase Y, Hilbe C.
+*Computational evolution of social norms in well-mixed and group-structured populations.*
+**Proceedings of the National Academy of Sciences**, 121:e2406885121.
+[💻](https://www.pnas.org/doi/10.1073/pnas.2406885121)
+[📃](../files/2024_murase.pdf)
+
 - Glynatsi N, McAvoy A, Hilbe C. 
 *Evolution of reciprocity with limited payoff memory.*
 **Proceedings of the Royal Society B**, 291:20232493.
