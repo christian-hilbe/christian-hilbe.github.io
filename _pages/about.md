@@ -66,6 +66,7 @@ Schrödinger Fellowship of the Austrian Science Fund (EUR 80,118)
 [Alex McAvoy](https://datascience.unc.edu/person/alex-mcavoy/), 
 [Yohsuke Murase](https://yohm.github.io),
 [Martin A. Nowak](http://www.martinnowak.com), 
+[Chadi Saad-Roy](https://chadisaadroy.wordpress.com/),
 [Laura Schmid](https://scholar.google.at/citations?user=eOUSYYoAAAAJ&hl=en),
 [Karl Sigmund](https://homepage.univie.ac.at/karl.sigmund/),
 [Arne Traulsen](https://theobio.evolbio.mpg.de/#home),
