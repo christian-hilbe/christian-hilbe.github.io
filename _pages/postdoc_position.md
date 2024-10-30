@@ -29,7 +29,7 @@ In the next few years, IT:U will grow quickly, with me joining in mid January 20
 Linz is well connected to other major cities in Austria and Germany (e.g., commuting to Vienna takes 1h15 by train). 
 
 **Applications and informal interest.**
-We welcome applications from candidates with a PhD in any related discipline (e.g. psychology, computer science, mathematics, physics, economics). 
+We welcome applications from candidates with a PhD in any related discipline (e.g. social psychology, computer science, mathematics, physics, economics). 
 Applicants should have a strong quantitative background.
 Ideally, they also have some experience in designing and implementing economic experiments (e.g. Otree, Qualtrics), or with designing and analyzing game-theoretic models. 
 I welcome informal enquiries about this position and encourage candidates who are uncertain whether they would be a good fit for the position (especially if they are from a traditionally underrepresented group in academia) to get in touch, via hilbe@evolbio.mpg.de.
