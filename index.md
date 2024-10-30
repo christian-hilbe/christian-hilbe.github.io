@@ -2,7 +2,7 @@
 layout: default
 ---
 
-** I am currently looking for a [Post-Doc](https://christian-hilbe.github.io/postdoc_position/) **
+**I am currently looking for a [Post-Doc](https://christian-hilbe.github.io/postdoc_position/)**
 
 \
 I am the group leader of the [Max Planck Research Group on the Dynamics of Social Behavior](http://web.evolbio.mpg.de/social-behaviour/).

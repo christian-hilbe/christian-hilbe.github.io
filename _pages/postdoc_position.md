@@ -6,14 +6,14 @@ permalink: /postdoc_position/
 
 ![IT:U](/itulogo.png "interdisciplinary transformation university austria")
 
-I am currently looking for a Post-Doc who would work with me and my group at [IT:U](https://it-u.at/en/research/research-groups/game-theory-and-evolutionary-dynamics/). 
-In my [group](http://web.evolbio.mpg.de/social-behaviour/), we use game theory to study questions around cooperation and social behavior: What makes people cooperate and help others? What is the impact of social norms? And what real-world conditions, such as changing environments or extreme inequality challenge our assumptions of cooperation?
+I am currently looking for a Post-Doc to work with me and my group at [IT:U](https://it-u.at/en/research/research-groups/game-theory-and-evolutionary-dynamics/). 
+In my [group](http://web.evolbio.mpg.de/social-behaviour/), we use game theory to study questions around cooperation and social behavior: What makes people cooperate? What is the impact of social norms and how do they change? And what real-world conditions, such as changing environments or extreme inequality challenge our assumptions of cooperation?
 
 If these questions interest you, please consider applying for:
 ### Postdoctoral Fellow Position (3 years)
 
 **Details about the position.** The call for this position is open: if you are a social psychologist or economist working with lab experiments, or if you are a modeler with prior experience with (evolutionary) game theory, this position might be for you. 
-Applicants are free to develop their own research agenda; but I am also happy to propose topics, if useful. 
+Applicants are free to develop their own research agenda; but I am also happy to propose topics if useful. 
 The position is for 3 years, with a start date ideally in the first half of 2025 (the exact date is negotiable). 
 There will be some moderate teaching requirements, mostly to support me in the courses I will offer. 
 The salary is competitive, ranging from €4,752.30 to €5,211.80 for junior/senior PostDocs (on a 40-hour full-time basis, gross, 14 times a year).  
@@ -33,6 +33,6 @@ We welcome applications from candidates with a PhD in any related discipline (e.
 Applicants should have a strong quantitative background.
 Ideally, they also have some experience in designing and implementing economic experiments (e.g. Otree, Qualtrics), or with designing and analyzing game-theoretic models. 
 I welcome informal enquiries about this position and encourage candidates who are uncertain whether they would be a good fit for the position (especially if they are from a traditionally underrepresented group in academia) to get in touch, via hilbe@evolbio.mpg.de.
-Once you are ready to submit your application, please use the following link. 
+Once you are ready to submit your application, please use the following [link](https://it-u.at/en/research/research-groups/game-theory-and-evolutionary-dynamics/). 
 Your application should include your CV, a scan of your ID (e.g. passport), copies of your academic certificates, a motiviation letter, and a list of three references. 
 The application deadline is **November 30, 2024**.
