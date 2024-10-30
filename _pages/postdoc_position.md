@@ -4,7 +4,7 @@ title:
 permalink: /postdoc_position/
 ---
 
-![IT:U](/itulogo.png "interdisciplinary transformation university austria")
+<img src="../itulogo.png" class="center">
 
 I am currently looking for a Post-Doc to work with me and my group at [IT:U](https://it-u.at/en/research/research-groups/game-theory-and-evolutionary-dynamics/). 
 In my [group](http://web.evolbio.mpg.de/social-behaviour/), we use game theory to study questions around cooperation and social behavior: What makes people cooperate? What is the impact of social norms and how do they change? And what real-world conditions, such as changing environments or extreme inequality challenge our assumptions of cooperation?
@@ -23,13 +23,13 @@ In addition you are provided with a [Klima-Ticket](https://www.klimaticket.at/en
 The successful candidate will join our interdisciplinary research group, comprising of psychologists, physicists, and mathematicians. We use tools from game theory, ranging from analytical models and computer simulations to behavioural laboratory and field experiments. We aim to publish our findings in general-audience journals (including Nature, PNAS, Nature Human Behaviour) and top journals in economics, psychology and evolutionary biology. We have weekly group meetings to discuss science, and weekly 1-to-1 meetings with the supervisor to discuss projects. Our group is well connected to research labs worldwide, including in the US, UK, Germany, Austria, Switzerland, Netherlands, China and Japan. Candidates are encouraged to make use of these connections. 
 
 **Details about the university.** 
-[IT:U](https://it-u.at/en) is a newly established university in Linz, Upper Austria. 
+[IT:U](https://it-u.at/en) is a newly established public university in Linz, Upper Austria. 
 It focuses on research across disciplinary boundaries, with faculty members having backgrounds in complex systems, AI, data science, and human-computer interactions. 
 In the next few years, IT:U will grow quickly, with me joining in mid January 2025. 
 Linz is well connected to other major cities in Austria and Germany (e.g., commuting to Vienna takes 1h15 by train). 
 
 **Applications and informal interest.**
-We welcome applications from candidates with a PhD in any related discipline (e.g. economics, psychology, computer science, mathematics, physics). 
+We welcome applications from candidates with a PhD in any related discipline (e.g. psychology, computer science, mathematics, physics, economics). 
 Applicants should have a strong quantitative background.
 Ideally, they also have some experience in designing and implementing economic experiments (e.g. Otree, Qualtrics), or with designing and analyzing game-theoretic models. 
 I welcome informal enquiries about this position and encourage candidates who are uncertain whether they would be a good fit for the position (especially if they are from a traditionally underrepresented group in academia) to get in touch, via hilbe@evolbio.mpg.de.
