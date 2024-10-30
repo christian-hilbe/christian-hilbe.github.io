@@ -8,7 +8,9 @@ permalink: /about/
 
 ---
 
- - **Since 10/2019.**
+- **Starting 01/2025**
+Professor for game theory and evolutionary dynamics at [IT:U](https://www.it-u.at/en)
+ - **10/2019-12/2024.**
 Group leader of the [Max Planck Institute for Evolutionary Biology](https://www.evolbio.mpg.de)
 - **11/2015 – 09/2019.**
 Post-Doc at the [Institute of Science and Technology Austria](https://www.ista.ac.at/home)
