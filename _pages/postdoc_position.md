@@ -4,7 +4,7 @@ title:
 permalink: /postdoc_position/
 ---
 
-<img src="../itulogo.png" class="center">
+<img src="/../itulogo.png" class="center">
 ![IT:U](/itulogo.png "IT:U Logo")
 
 I am currently looking for a Post-Doc to work with me and my group at [IT:U](https://it-u.at/en/research/research-groups/game-theory-and-evolutionary-dynamics/). 
