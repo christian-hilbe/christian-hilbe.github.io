@@ -7,7 +7,7 @@ permalink: /postdoc_position/
 <img src="/../itulogo.png" class="center">
 ![IT:U](/itulogo.png "IT:U Logo")
 
-I am currently looking for a Post-Doc to work with me and my group at [IT:U](https://it-u.at/en/research/research-groups/game-theory-and-evolutionary-dynamics/). 
+AA. I am currently looking for a Post-Doc to work with me and my group at [IT:U](https://it-u.at/en/research/research-groups/game-theory-and-evolutionary-dynamics/). 
 In my [group](http://web.evolbio.mpg.de/social-behaviour/), we use game theory to study questions around cooperation and social behavior: What makes people cooperate? What is the impact of social norms and how do they change? And what real-world conditions, such as changing environments or extreme inequality challenge our assumptions of cooperation?
 
 If these questions interest you, please consider applying for:
