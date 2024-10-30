@@ -18,6 +18,10 @@ permalink: /publications/
 **Proceedings of the National Academy of Sciences**, in press.
 
 - Murase Y, Hilbe C.
+*Indirect reciprocity under opinion synchronization.*
+**Proceedings of the National Academy of Sciences**, in press. 
+
+- Murase Y, Hilbe C.
 *Computational evolution of social norms in well-mixed and group-structured populations.*
 **Proceedings of the National Academy of Sciences**, 121:e2406885121.
 [💻](https://www.pnas.org/doi/10.1073/pnas.2406885121)
