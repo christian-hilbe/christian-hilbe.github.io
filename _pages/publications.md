@@ -9,6 +9,14 @@ permalink: /publications/
 
 ---
 
+- Glynatsi N, Akin E, Nowak MA, Hilbe C.
+*Conditional cooperation with longer memory*
+**Proceedings of teh National Academy of Sciences**, in press.
+
+- Rossetti CL, Hauser O, Hilbe C. 
+*Dynamics of cooperation in concurrent games*
+**Nature Communications**, in press.  
+
 - Barfuss W, Flack J, Gokhale C, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenaerts T, Leonard NE, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP. 
 *Collective Cooperative Intelligence.*
 **Proceedings of the National Academy of Sciences**, in press.
