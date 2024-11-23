@@ -5,9 +5,20 @@ permalink: /publications/
 ---
 
 
-###### 2024 
+
+###### Working papers & Papers in Press
 
 ---  
+
+- Balabanova N, Duong H, Hilbe C.
+*Adaptive dynamics of direct reciprocity with N rounds of memory.*
+**arXiv**, 2411.09535
+ [💻](https://arxiv.org/abs/2411.09535)
+
+- Pal S, Hilbe C, Glynatsi N.
+*The co-evolution of direct, indirect and generalized reciprocity.*
+**arXiv**, 2411.03488.
+ [💻](https://arxiv.org/abs/2411.03488)
 
 - Barfuss W, Flack J, Gokhale C, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenaerts T, Leonard NE, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP. 
 *Collective Cooperative Intelligence.*
@@ -17,23 +28,31 @@ permalink: /publications/
 *Unilateral incentive alignment in two-player games.*
 **Proceedings of the National Academy of Sciences**, in press.
 
-- Glynatsi N, Akin E, Nowak MA, Hilbe C.
-*Conditional cooperation with longer memory.*
-**Proceedings of the National Academy of Sciences**, in press.
-
 - Rossetti CL, Hauser O, Hilbe C. 
 *Dynamics of cooperation in concurrent games.*
 **Nature Communications**, in press.
 
+- Glynatsi N, Akin E, Nowak MA, Hilbe C.
+*Conditional cooperation with longer memory.*
+**Proceedings of the National Academy of Sciences**, in press.
+
+
+
+###### 2024 
+
+---  
+
 - Murase Y, Hilbe C.
 *Indirect reciprocity under opinion synchronization.*
-**Proceedings of the National Academy of Sciences**, in press. 
+**Proceedings of the National Academy of Sciences**, 121:e2418364121.
+[💻](https://www.pnas.org/doi/10.1073/pnas.2418364121)
+[📃](../files/2024_murase_b.pdf) 
 
 - Murase Y, Hilbe C.
 *Computational evolution of social norms in well-mixed and group-structured populations.*
 **Proceedings of the National Academy of Sciences**, 121:e2406885121.
 [💻](https://www.pnas.org/doi/10.1073/pnas.2406885121)
-[📃](../files/2024_murase.pdf)
+[📃](../files/2024_murase_a.pdf)
 
 - Glynatsi N, McAvoy A, Hilbe C. 
 *Evolution of reciprocity with limited payoff memory.*
