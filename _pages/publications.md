@@ -32,15 +32,16 @@ permalink: /publications/
 *Dynamics of cooperation in concurrent games.*
 **Nature Communications**, in press.
 
-- Glynatsi N, Akin E, Nowak MA, Hilbe C.
-*Conditional cooperation with longer memory.*
-**Proceedings of the National Academy of Sciences**, in press.
-
-
 
 ###### 2024 
 
 ---  
+
+- Glynatsi N, Akin E, Nowak MA, Hilbe C.
+*Conditional cooperation with longer memory.*
+**Proceedings of the National Academy of Sciences**, 121:e2420125121.
+[💻](https://www.pnas.org/doi/10.1073/pnas.2420125121)
+[📃](../files/2024_glynatsi_pnas.pdf)
 
 - Murase Y, Hilbe C.
 *Indirect reciprocity under opinion synchronization.*
