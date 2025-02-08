@@ -40,7 +40,7 @@ permalink: /publications/
 
 - Hübner V, Hilbe C, Staab M, Kleshnina M, Chatterjee K.
 *Time-Dependent strategies in repeated asymmetric public goods games.*
-**Dynamic games and applications**, s13235-025-00627-5.
+**Dynamic Games and Applications**, s13235-025-00627-5.
 [💻](https://link.springer.com/article/10.1007/s13235-025-00627-5)
 [📃](../files/2025_huebner_dga.pdf)
 
