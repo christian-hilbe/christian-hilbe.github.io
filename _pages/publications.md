@@ -28,15 +28,17 @@ permalink: /publications/
 *Unilateral incentive alignment in two-player games.*
 **Proceedings of the National Academy of Sciences**, in press.
 
-- Rossetti CL, Hauser O, Hilbe C. 
-*Dynamics of cooperation in concurrent games.*
-**Nature Communications**, in press.
-
 
 
 ###### 2025
 
 ---  
+
+- Rossetti CL, Hauser O, Hilbe C. 
+*Dynamics of cooperation in concurrent games.*
+**Nature Communications**, 16:1524.
+[💻](https://www.nature.com/articles/s41467-025-56083-7)
+[📃](../files/2025_rossetti_ncomms.pdf)
 
 - Hübner V, Hilbe C, Staab M, Kleshnina M, Chatterjee K.
 *Time-Dependent strategies in repeated asymmetric public goods games.*
