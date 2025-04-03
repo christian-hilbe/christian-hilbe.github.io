@@ -34,6 +34,12 @@ permalink: /publications/
 
 ---  
 
+- Lesigang F, Hilbe C, Glynatsi N.
+*Can I afford to remember less than you? Best responses in repeated additive games.*
+**Economics Letters**, 250:112300.
+[💻](https://www.sciencedirect.com/science/article/pii/S0165176525001375)
+[📃](../files/2025_lesigang_econlett.pdf)
+
 - Rossetti CL, Hauser O, Hilbe C. 
 *Dynamics of cooperation in concurrent games.*
 **Nature Communications**, 16:1524.
