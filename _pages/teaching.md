@@ -4,7 +4,7 @@ title:
 permalink: /teaching/
 ---
 
-This page is meant to share teaching materials of some of my previous classes. 
+This page is meant to share course materials of some of my previous classes. 
 
 ###### Introduction to Game Theory (IT:U Spring 2025)
 
