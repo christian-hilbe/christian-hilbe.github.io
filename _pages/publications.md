@@ -28,6 +28,9 @@ permalink: /publications/
 *Unilateral incentive alignment in two-player games.*
 **Proceedings of the National Academy of Sciences**, in press.
 
+- Hübner V, Schmid L, Hilbe C, Chatterjee K. 
+*Stable strategies of direct and indirect reciprocity across all social dilemmas*
+**PNAS Nexus**, in press. 
 
 
 ###### 2025
