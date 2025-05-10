@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Since 2025, I am Professor of Game Theory and Evolutionary Dynamics, at [IT:U](https://it-u.at/en/).
-This is a new university in Linz, Austria, that explicitly focuses on research at the intersection of different fields. 
+Since 2025, I am Professor of Game Theory and Evolutionary Dynamics, at [IT:U](https://it-u.at/en/) in Linz, Austria.
+This is a new university that explicitly focuses on research at the intersection of different fields. 
 
 In my group, we explore social behavior (mostly cooperative behavior), using mathematics, computer simulations, and behavioral experiments.
 For much of our work, we use evolutionary game theory. 
