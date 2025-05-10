@@ -14,5 +14,5 @@ Which kinds of social norms do people use to sustain cooperation?
 Why do people value modesty? 
 And how do individuals react to environmental change? 
 
-Before joining IT:U, I was the group leader of the [Max Planck Research Group on the Dynamics of Social Behavior](http://web.evolbio.mpg.de/social-behaviour/).
+Before joining IT:U, I was the group leader of the [Max Planck Research Group on the Dynamics of Social Behavior](https://dynamics-social-behavior.github.io/).
 For more information, please have a look at my publications, and the links below. 
