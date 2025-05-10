@@ -4,7 +4,7 @@ title:
 permalink: /teaching/
 ---
 
-
+This page is meant to share teaching materials of some of my previous classes. 
 
 ###### Introduction to Game Theory (IT:U Spring 2025)
 
@@ -12,4 +12,4 @@ As part of the Project-Integrated Course (PIC) on *Analyzing Human Behavior*, ta
 
 
 ###### Introduction to Evolutionary Game Theory (ICTS Spring 2025)
-As part of the Workshop [Decisions, Games, and Evolution](https://www.icts.res.in/program/DGE2025), held at ICTS Bangalore, I gave four 2h classes on evolutionary game theory. The classes covered a basic introduction ([Part 1](../files/teaching/2025_EGT/part1.pdf)), direct reciprocity ([Part 2](../files/teaching/2025_EGT/part2.pdf)), indirect reciprocity ([Part 3](../files/teaching/2025_EGT/part3.pdf)), and some current research topics ([Part 4](../files/teaching/2025_EGT/part4.pdf)). The workshop was fantastic, thanks to the organizers for inviting me. 
+As part of the Workshop [Decisions, Games, and Evolution](https://www.icts.res.in/program/DGE2025), held at ICTS Bangalore, I gave four 2h-classes on evolutionary game theory. The classes targeted an audience of PhD students and of junior Post-Docs. They covered a basic introduction ([Part 1](../files/teaching/2025_EGT/part1.pdf)), direct reciprocity ([Part 2](../files/teaching/2025_EGT/part2.pdf)), indirect reciprocity ([Part 3](../files/teaching/2025_EGT/part3.pdf)), and some current research topics ([Part 4](../files/teaching/2025_EGT/part4.pdf)). The workshop was fantastic, thanks to the organizers for inviting me. 
