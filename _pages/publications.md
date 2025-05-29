@@ -28,14 +28,16 @@ permalink: /publications/
 *Unilateral incentive alignment in two-player games.*
 **Proceedings of the National Academy of Sciences**, in press.
 
-- Hübner V, Schmid L, Hilbe C, Chatterjee K. 
-*Stable strategies of direct and indirect reciprocity across all social dilemmas*
-**PNAS Nexus**, in press. 
-
 
 ###### 2025
 
 ---  
+
+- Hübner V, Schmid L, Hilbe C, Chatterjee K. 
+*Stable strategies of direct and indirect reciprocity across all social dilemmas*
+**PNAS Nexus**, 4:pgaf154. 
+[💻](https://academic.oup.com/pnasnexus/article/4/5/pgaf154/8128354)
+[📃](../files/2025_huebner_pnasnexus.pdf)
 
 - Lesigang F, Hilbe C, Glynatsi N.
 *Can I afford to remember less than you? Best responses in repeated additive games.*

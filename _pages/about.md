@@ -50,7 +50,7 @@ Schrödinger Fellowship of the Austrian Science Fund (EUR 80,118)
 
 - [Marta Couto](https://martagccouto.github.io/) [*Mathematical models of cooperation among heterogeneous individuals*]
 - [Charlotte Rossetti](https://scholar.google.de/citations?user=0PXsETYAAAAJ&hl=en) [*Mechanisms and benefits of reciprocal relationships*]
-- [Saptarshi Pal](https://scholar.google.de/citations?user=_V3It7MAAAAJ&hl=en) [*The role of information on the evolution of cooperation*]
+- [Saptarshi Pal](https://saptarshi07.github.io/) [*The role of information on the evolution of cooperation*]
 
 
 
