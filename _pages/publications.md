@@ -20,18 +20,23 @@ permalink: /publications/
 **arXiv**, 2411.03488.
  [💻](https://arxiv.org/abs/2411.03488)
 
-- Barfuss W, Flack J, Gokhale C, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenaerts T, Leonard NE, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP. 
-*Collective Cooperative Intelligence.*
-**Proceedings of the National Academy of Sciences**, in press.
-
-- McAvoy A, Madhusahani U, Hilbe C, Chatterjee K, Barfuss W, Su Q, Leonard NE, Plotkin JB.
-*Unilateral incentive alignment in two-player games.*
-**Proceedings of the National Academy of Sciences**, in press.
 
 
 ###### 2025
 
 ---  
+
+- Barfuss W, Flack J, Gokhale C, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenaerts T, Leonard NE, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP. 
+*Collective Cooperative Intelligence.*
+**Proceedings of the National Academy of Sciences**, 122:e2319948121.
+[💻](https://www.pnas.org/doi/10.1073/pnas.2319948121)
+[📃](../files/2025_barfuss.pdf)
+
+- McAvoy A, Madhusahani U, Hilbe C, Chatterjee K, Barfuss W, Su Q, Leonard NE, Plotkin JB.
+*Unilateral incentive alignment in two-player games.*
+**Proceedings of the National Academy of Sciences**, 122:e2319927121.
+[💻](https://www.pnas.org/doi/10.1073/pnas.2319927121)
+[📃](../files/2025_mcavoy.pdf)
 
 - Hübner V, Schmid L, Hilbe C, Chatterjee K. 
 *Stable strategies of direct and indirect reciprocity across all social dilemmas*
