@@ -26,6 +26,12 @@ permalink: /publications/
 
 ---  
 
+- Glynatsi N, Hilbe C, Murase Y.
+*Exact conditions for evolutionary stability in indirect reciprocity under noise.*
+**PLoS Computational Biology**, 21:e1013584.
+[💻](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013584)
+[📃](../files/2025_glynatsi.pdf)
+
 - Barfuss W, Flack J, Gokhale C, Hammond L, Hilbe C, Hughes E, Leibo JZ, Lenaerts T, Leonard NE, Levin S, Madhushani U, McAvoy A, Meylahn JM, Santos FP. 
 *Collective Cooperative Intelligence.*
 **Proceedings of the National Academy of Sciences**, 122:e2319948121.
