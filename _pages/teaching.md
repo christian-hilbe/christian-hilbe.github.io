@@ -6,6 +6,9 @@ permalink: /teaching/
 
 This page is meant to share course materials of some of my previous classes. 
 
+###### A teaser to Game Theory (IT:U, Fall 2025)
+As a part of the Project-Integrated Course (PIC) on *Machine Learning and NLP* for the PhD students at [IT:U](https://it-u.at/en/), I gave a very brief intro to game theory ([pdf](../files/teaching/2025_GameTheory_short/LectureNotes.pdf)).
+
 ###### Research Methodology (IT:U, Spring 2025)
 
 I taught two morning sessions for the Project-Integrated Course (PIC) on *Research Methodology* for the PhD students at [IT:U](https://it-u.at/en/). 
