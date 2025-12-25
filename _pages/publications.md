@@ -10,6 +10,10 @@ permalink: /publications/
 
 ---  
 
+- LaPorte P, Hilbe C, Glynatsi N, Nowak MA.
+*Payoff equivalence and complete strategy spaces of direct reciprocity.* 
+**Proceedings of the National Academy of Sciences**, in press.
+
 - Balabanova N, Duong H, Hilbe C.
 *Adaptive dynamics of direct reciprocity with N rounds of memory.*
 **arXiv**, 2411.09535
