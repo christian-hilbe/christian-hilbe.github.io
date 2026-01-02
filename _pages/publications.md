@@ -10,6 +10,10 @@ permalink: /publications/
 
 ---  
 
+- Wang X, Hilbe C, Zhang B.
+*The dynamics of cooperation in asymmetric public goods games* 
+**Proceedings of the National Academy of Sciences**, in press.
+
 - LaPorte P, Hilbe C, Glynatsi N, Nowak MA.
 *Payoff equivalence and complete strategy spaces of direct reciprocity.* 
 **Proceedings of the National Academy of Sciences**, in press.
