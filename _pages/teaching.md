@@ -6,7 +6,12 @@ permalink: /teaching/
 
 This page is meant to share course materials of some of my previous classes. 
 
+###### Basics of Probability Theory (IT:U, Fall 2025)
+
+As part of the course *Foundations and Methods 2* for Master students at [IT:U](https://it-u.at/en/), I gave a 3h class on probability theory and how it is used to do inferential statistics ([pdf](../files/teaching/2026_FM2/Notes_Probability.pdf)).
+
 ###### A teaser to Game Theory (IT:U, Fall 2025)
+
 As a part of the Project-Integrated Course (PIC) on *Machine Learning and NLP* for the PhD students at [IT:U](https://it-u.at/en/), I gave a very brief intro to game theory ([pdf](../files/teaching/2025_GameTheory_short/LectureNotes.pdf)).
 
 ###### Research Methodology (IT:U, Spring 2025)
