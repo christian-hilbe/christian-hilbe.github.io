@@ -6,6 +6,9 @@ permalink: /teaching/
 
 This page is meant to share course materials of some of my previous classes. 
 
+###### Research Methodology (IT:U, Winter 2026)
+I taught a morning session to explain the basics of inferential statistics (hypothesis testing, parameter estimation) ([pdf](../files/teaching/2026_ResearchMethodology/Notes_Statistics.pdf)).
+
 ###### Basics of Probability Theory (IT:U, Fall 2025)
 
 As part of the course *Foundations and Methods 2* for Master students at [IT:U](https://it-u.at/en/), I gave a 3h class on probability theory and how it is used to do inferential statistics ([pdf](../files/teaching/2026_FM2/Notes_Probability.pdf)).
