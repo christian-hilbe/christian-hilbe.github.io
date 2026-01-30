@@ -13,5 +13,5 @@ How does inequality affect human behavior and social learning?
 Which kinds of social norms do people use to sustain cooperation? 
 And how do individuals react to environmental change? 
 
-Before joining IT:U in 2025, I was the group leader of the [Max Planck Institute](https://www.evolbio.mpg.de/) in Plön, Germany.
+Before joining IT:U in 2025, I was a group leader at the [Max Planck Institute](https://www.evolbio.mpg.de/) in Plön, Germany.
 For more information, take a look at the various links on this homepage. 
