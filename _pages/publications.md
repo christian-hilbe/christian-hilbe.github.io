@@ -10,13 +10,10 @@ permalink: /publications/
 
 ---  
 
-- Wang X, Hilbe C, Zhang B.
-*The dynamics of cooperation in asymmetric public goods games* 
-**Proceedings of the National Academy of Sciences**, in press.
-
-- LaPorte P, Hilbe C, Glynatsi N, Nowak MA.
-*Payoff equivalence and complete strategy spaces of direct reciprocity.* 
-**Proceedings of the National Academy of Sciences**, in press.
+- Pal S, Mallela A, Hilbe C, Pracher L, Wei C, Fu F, Schnell S, Nowak MA.
+*Strategies of cooperation and defection in five large language models.*
+**arXiv**, 2601.09849
+ [💻](https://arxiv.org/abs/2601.09849)
 
 - Balabanova N, Duong H, Hilbe C.
 *Adaptive dynamics of direct reciprocity with N rounds of memory.*
@@ -27,6 +24,24 @@ permalink: /publications/
 *The co-evolution of direct, indirect and generalized reciprocity.*
 **arXiv**, 2411.03488.
  [💻](https://arxiv.org/abs/2411.03488)
+
+
+
+###### 2026
+
+---  
+
+- Wang X, Hilbe C, Zhang B.
+*The dynamics of cooperation in asymmetric public goods games.* 
+**Proceedings of the National Academy of Sciences**, 123:e2525760123.
+[💻](https://www.pnas.org/doi/10.1073/pnas.2525760123)
+[📃](../files/2026_wang_pnas.pdf)
+
+- LaPorte P, Hilbe C, Glynatsi N, Nowak MA.
+*Payoff equivalence and complete strategy spaces of direct reciprocity.* 
+**Proceedings of the National Academy of Sciences**, 123:e2518486123.
+[💻](https://www.pnas.org/doi/10.1073/pnas.2518486123)
+[📃](../files/2026_laporte_pnas.pdf)
 
 
 
