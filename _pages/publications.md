@@ -10,6 +10,11 @@ permalink: /publications/
 
 ---  
 
+- Lie-Panis J, Hilbe C
+*Cooperation investments: Building capacity and signaling intent*
+**PsyArXiv**, 27tc4
+ [💻](https://osf.io/27tc4)
+
 - Pal S, Mallela A, Hilbe C, Pracher L, Wei C, Fu F, Schnell S, Nowak MA.
 *Strategies of cooperation and defection in five large language models.*
 **arXiv**, 2601.09849
@@ -30,6 +35,12 @@ permalink: /publications/
 ###### 2026
 
 ---  
+
+- Saad-Roy CM, Abraham N, Hilbe C, Mahmud AS, Traulsen A.
+*Interactions between immuno-epidemiology and individual decision-making for nonpharmaceutical interventions.*
+**Trends in Microbiology**
+[💻](https://www.cell.com/trends/microbiology/fulltext/S0966-842X(26)00006-5)
+[📃](../files/2026_saadroy_trends.pdf)
 
 - Wang X, Hilbe C, Zhang B.
 *The dynamics of cooperation in asymmetric public goods games.* 
