@@ -8,7 +8,7 @@ This page is meant to share course materials of some of my previous classes.
 
 ###### Modeling Human Behavior (IT:U, Summer 2026)
 As part of the Project-Integrated Course (PIC) *Modeling Human Behavior* in the master specialization [Designing Interactions](https://it-u.at/en/study-program/designing-interactions_2/), I teach five classes on game theory. 
-This is an ongoing class. The material for the first class, providing an overview on game theory, is here ([pdf](../files/teaching/2026_MHB/Notes_Pt1.pdf)).
+This is an ongoing class. Here is the material for the first two classes, providing an overview on game theory ([pdf](../files/teaching/2026_MHB/Notes_Pt1.pdf)) and on elimination of dominated actions ([pdf](../files/teaching/2026_MHB/Notes_Pt2.pdf)).
 
 ###### Research Methodology (IT:U, Winter 2026)
 As part of the Project-Integrated Course (PIC) *Research Methodology* for the PhD students at [IT:U](https://it-u.at/en/), I taught a 4h class on the basics of inferential statistics, focussing on hypothesis testing and parameter estimation ([pdf](../files/teaching/2026_ResearchMethodology/Notes_Statistics.pdf)).
