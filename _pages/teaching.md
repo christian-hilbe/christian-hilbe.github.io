@@ -6,16 +6,16 @@ permalink: /teaching/
 
 This page is meant to share course materials of some of my previous classes. 
 
+###### Foundations and Methods 2 (IT:U, Spring 2026, Fall 2025)
+
+As part of the course *Foundations and Methods 2* for Master students at [IT:U](https://it-u.at/en/), I gave a 3h class on probability theory and how it is used to do inferential statistics. Here is the course material used in Fall 2025 ([pdf](../files/teaching/2026_FM2/Notes_Probability.pdf)); here is a slightly adapted version used in Spring 2026 ([pdf](../files/teaching/2026_FM2/Notes_Probability_v2.pdf))
+
 ###### Modeling Human Behavior (IT:U, Summer 2026)
 As part of the Project-Integrated Course (PIC) *Modeling Human Behavior* in the master specialization [Designing Interactions](https://it-u.at/en/study-program/designing-interactions_2/), I teach five classes on game theory. 
 This is an ongoing class. Here is the material for the first four classes, providing an overview on game theory ([pdf](../files/teaching/2026_MHB/Notes_Pt1.pdf)), on elimination of dominated actions ([pdf](../files/teaching/2026_MHB/Notes_Pt2.pdf)), on Nash equilibria ([pdf](../files/teaching/2026_MHB/Notes_Pt3.pdf)), and on evolutionary approaches to game theory ([pdf](../files/teaching/2026_MHB/Notes_Pt4.pdf)). In addition, here is the question catalogue ([pdf](../files/teaching/2026_MHB/Content_Overview.pdf)).
 
 ###### Research Methodology (IT:U, Winter 2026)
 As part of the Project-Integrated Course (PIC) *Research Methodology* for the PhD students at [IT:U](https://it-u.at/en/), I taught a 4h class on the basics of inferential statistics, focussing on hypothesis testing and parameter estimation ([pdf](../files/teaching/2026_ResearchMethodology/Notes_Statistics.pdf)).
-
-###### Foundations and Methods 2 (IT:U, Fall 2025)
-
-As part of the course *Foundations and Methods 2* for Master students at [IT:U](https://it-u.at/en/), I gave a 3h class on probability theory and how it is used to do inferential statistics ([pdf](../files/teaching/2026_FM2/Notes_Probability.pdf)).
 
 ###### A teaser to Game Theory (IT:U, Fall 2025)
 
