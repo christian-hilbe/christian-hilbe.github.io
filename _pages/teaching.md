@@ -6,7 +6,7 @@ permalink: /teaching/
 
 This page is meant to share course materials of some of my previous classes. 
 
-###### A teaser to Game Theory (IT:U, Fall 2025)
+###### Elective Game Theory (IT:U, Fall 2025)
 
 I am currently teaching an elective on *Game theory* for Master students at [IT:U](https://it-u.at/en/). 
 Here is the course script, which will be continually updated ([pdf](../files/teaching/2026_GameTheory/Lecture_Notes.pdf)).
