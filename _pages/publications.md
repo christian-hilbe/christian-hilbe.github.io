@@ -11,12 +11,12 @@ permalink: /publications/
 ---  
 
  - Pol S, Mehta H, Mambayil P, Ghafoor A, Lesigang F, Hou Y, Hilbe C.
- *LLMs struggle to simulate human belief updates in controlled environments.
+ *LLMs struggle to simulate human belief updates in controlled environments.*
  **arXiv**, 2607.28347
   [💻](https://arxiv.org/abs/2607.28347)
 
 - Lesigang F, Hilbe C, Glynatsi N.
-*Characterisation of reactive Nash equilibria in repeated additive games*
+*Characterisation of reactive Nash equilibria in repeated additive games.*
 **arXiv**, 2606.27653.
  [💻](https://arxiv.org/abs/2606.27653)
 
