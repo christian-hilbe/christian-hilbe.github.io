@@ -10,8 +10,18 @@ permalink: /publications/
 
 ---  
 
+ - Pol S, Mehta H, Mambayil P, Ghafoor A, Lesigang F, Hou Y, Hilbe C.
+ *LLMs struggle to simulate human belief updates in controlled environments.
+ **arXiv**, 2607.28347
+  [💻](https://arxiv.org/abs/2607.28347)
+
+- Lesigang F, Hilbe C, Glynatsi N.
+*Characterisation of reactive Nash equilibria in repeated additive games*
+**arXiv**, 2606.27653.
+ [💻](https://arxiv.org/abs/2606.27653)
+
 - Lie-Panis J, Hilbe C.
-*Cooperation investments: Building capacity and signaling intent.*
+*Investing in cooperation.*
 **PsyArXiv**, 27tc4.
  [💻](https://osf.io/27tc4)
 
@@ -31,12 +41,17 @@ permalink: /publications/
 
 ---  
 
+- Tham YJ, Hilbe C, Murase Y. 
+*Indirect reciprocity with dual private assessment.*
+**Proceedings of the National Academy of Sciences**, 123:e2624656123.
+[💻](https://www.pnas.org/doi/10.1073/pnas.2624656123)
+[📃](../files/2026_tham_pnas.pdf)
+
 - Couto MC, Santos FP, Hilbe C. 
 *Evolution of noisy learning in games.*
 **Proceedings of the National Academy of Sciences**, 123:e2529959123.
 [💻](https://www.pnas.org/doi/10.1073/pnas.2529959123)
 [📃](../files/2026_couto_pnas.pdf)
-
 
 - Saad-Roy CM, Abraham N, Hilbe C, Mahmud AS, Traulsen A.
 *Interactions between immuno-epidemiology and individual decision-making for nonpharmaceutical interventions.*
